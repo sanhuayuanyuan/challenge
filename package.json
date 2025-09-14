@@ -9,7 +9,7 @@
   "lint": "eslint .",
   "preview": "vite preview",
   "test": "vitest --environment jsdom"
-}
+},
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
